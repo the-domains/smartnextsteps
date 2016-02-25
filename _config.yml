@@ -1,0 +1,28 @@
+name: smartnextsteps
+favicon: null
+layout_spectrum: 0.7509566373191774
+typography_spectrum: 0.11212932411581278
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.007063553435727954
+  lightness: 0.8478891402482986
+  saturation: 0.4069686937145889
+  rhythmicContrast: 0.7473839703015983
+purpose: []
